@@ -1,0 +1,15 @@
+D:\Wahlin Group\Courses\PluralSight\C# Events and Delegates\Module2\Code\Before\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\csharp-events-delegates\materials\2-csharp-events-delegates-m2-exercise-files\Code\Before\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\csharp-events-delegates\materials\2-csharp-events-delegates-m2-exercise-files\Code\Before\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\csharp-events-delegates\materials\2-csharp-events-delegates-m2-exercise-files\Code\Before\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\csharp-events-delegates\materials\2-csharp-events-delegates-m2-exercise-files\Code\Before\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\csharp-events-delegates\materials\2-csharp-events-delegates-m2-exercise-files\Code\Before\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\csharp-events-delegates\materials\2-csharp-events-delegates-m2-exercise-files\Code\Before\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\csharp-events-delegates\materials\2-csharp-events-delegates-m2-exercise-files\Code\Before\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe.config
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.exe
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\DelegatesAndEvents\DelegatesAndEvents\bin\Debug\DelegatesAndEvents.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.exe
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\DelegatesAndEvents\DelegatesAndEvents\obj\Debug\DelegatesAndEvents.pdb

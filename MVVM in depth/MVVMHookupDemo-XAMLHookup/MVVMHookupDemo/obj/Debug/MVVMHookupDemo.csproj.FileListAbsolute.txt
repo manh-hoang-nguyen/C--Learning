@@ -1,0 +1,56 @@
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.pdb
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\EntityFramework.dll
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Zza.Data.dll
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Zza.Data.pdb
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Zza.Data.dll.config
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\EntityFramework.xml
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MainWindow.baml
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MainWindow.g.cs
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\App.g.cs
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo_MarkupCompile.cache
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.g.resources
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.Properties.Resources.resources
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.csproj.GenerateResource.cache
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.csproj.CopyComplete
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.exe
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\wpf-mvvm-in-depth\04\demos\before\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe.config
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.exe
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\MVVMHookupDemo.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\EntityFramework.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Microsoft.Xaml.Behaviors.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Zza.Data.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Zza.Data.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Zza.Data.dll.config
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\EntityFramework.xml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Microsoft.Xaml.Behaviors.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\bin\Debug\Microsoft.Xaml.Behaviors.xml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MainWindow.baml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\Customers\CustomerListView.g.cs
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MainWindow.g.cs
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\App.g.cs
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo_MarkupCompile.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo_MarkupCompile.lref
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\Customers\CustomerListView.baml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.g.resources
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.Properties.Resources.resources
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.csproj.GenerateResource.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.csproj.CopyComplete
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.exe
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\MVVMHookupDemo.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\Customers\CustomerDetailView.g.cs
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMHookupDemo-XAMLHookup\MVVMHookupDemo\obj\Debug\Customers\CustomerDetailView.baml

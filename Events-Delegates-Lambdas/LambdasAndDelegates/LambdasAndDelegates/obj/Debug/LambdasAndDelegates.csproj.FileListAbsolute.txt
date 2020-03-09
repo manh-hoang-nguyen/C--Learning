@@ -1,0 +1,12 @@
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.exe.config
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.exe
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.pdb
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.exe
+C:\Users\Dan\Desktop\Code\Before\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.exe.config
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.exe
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\LambdasAndDelegates\LambdasAndDelegates\bin\Debug\LambdasAndDelegates.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.exe
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\LambdasAndDelegates\LambdasAndDelegates\obj\Debug\LambdasAndDelegates.pdb
