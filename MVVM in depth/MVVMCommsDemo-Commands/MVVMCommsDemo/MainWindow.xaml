@@ -3,6 +3,7 @@
         xmlns:Customers="clr-namespace:MVVMCommsDemo.Customers"
         xmlns:local="clr-namespace:MVVMCommsDemo"
         x:Class="MVVMCommsDemo.MainWindow"
+        xmlns:b="http://schemas.microsoft.com/xaml/behaviors"
         Title="MainWindow"
         Height="350"
         Width="525">
@@ -15,7 +16,16 @@
         <local:MainWindowViewModel />
     </Window.DataContext>
     <Grid>
-        <ContentControl Content="{Binding CurrentViewModel}" />
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <ContentControl>
+            <b:Interaction.Behaviors>
+                <local:ShowNotificationMessageBehavior Message="{Binding NotificationMessage}" />
+            </b:Interaction.Behaviors>
+        </ContentControl>
+        <ContentControl Content="{Binding CurrentViewModel}" Grid.Row="1"/>
 
         <!--<Customers:CustomerListView />-->
 

@@ -1,37 +1,51 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Collections.ObjectModel;
-using System.ComponentModel;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-using System.Windows.Input;
-using MVVMCommsDemo.Services;
-using Zza.Data;
-
-namespace MVVMCommsDemo.Customers
+﻿namespace MVVMCommsDemo.Customers
 {
-    public class CustomerListViewModel
+    using MVVMCommsDemo.Services;
+    using System.Collections.ObjectModel;
+    using System.ComponentModel;
+    using Zza.Data;
+
+    public class CustomerListViewModel : INotifyPropertyChanged
     {
         private ObservableCollection<Customer> _customers;
+
         private ICustomersRepository _repository = new CustomersRepository();
+
         private Customer _selectedCustomer;
+
+        public event PropertyChangedEventHandler PropertyChanged = delegate { };
 
         public RelayCommand DeleteCommand { get; private set; }
 
-        public Customer SelectedCustomer { get => _selectedCustomer; set { _selectedCustomer = value; DeleteCommand.RaiseCanExecuteChanged(); } }
+        public Customer SelectedCustomer
+        {
+            get => _selectedCustomer;
+            set
+            { 
+                _selectedCustomer = value;
+                DeleteCommand.RaiseCanExecuteChanged();
+                PropertyChanged(null, new PropertyChangedEventArgs("SelectedCustomer"));
+            }
+        }
+
         public CustomerListViewModel()
         {
-           
+
             DeleteCommand = new RelayCommand(OnDelete, CanDelete);
-          
         }
 
+        /// <summary>
+        /// The CanDelete
+        /// </summary>
+        /// <returns>The <see cref="bool"/></returns>
         private bool CanDelete()
         {
-            return SelectedCustomer !=null;
+            return SelectedCustomer != null;
         }
 
+        /// <summary>
+        /// The OnDelete
+        /// </summary>
         private void OnDelete()
         {
             Customers.Remove(SelectedCustomer);
@@ -46,13 +60,18 @@ namespace MVVMCommsDemo.Customers
             set
             {
                 _customers = value;
+                PropertyChanged(null, new PropertyChangedEventArgs("Customers"));
             }
         }
+
+        /// <summary>
+        /// The LoadCustomers
+        /// </summary>
         public async void LoadCustomers()
         {
             if (DesignerProperties.GetIsInDesignMode(
                new System.Windows.DependencyObject())) return;
-            Customers = new ObservableCollection<Customer>( await _repository.GetCustomersAsync());
+            Customers = new ObservableCollection<Customer>(await _repository.GetCustomersAsync());
         }
     }
 }

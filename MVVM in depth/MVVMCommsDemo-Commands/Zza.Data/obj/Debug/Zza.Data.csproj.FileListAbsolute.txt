@@ -10,3 +10,14 @@ D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learnin
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\obj\Debug\Zza.Data.dll
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\bin\Debug\EntityFramework.xml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\bin\Debug\Zza.Data.dll.config
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\bin\Debug\Zza.Data.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\bin\Debug\Zza.Data.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\bin\Debug\EntityFramework.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\obj\Debug\Zza.Data.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\MVVMCommsDemo-Commands\Zza.Data\obj\Debug\Zza.Data.pdb
