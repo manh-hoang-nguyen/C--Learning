@@ -11,15 +11,16 @@ namespace ZzaDesktop.Customers
 {
     class CustomerListViewModel: BindableBase
     {
-        private ICustomersRepository _repo = new CustomersRepository();
+        private ICustomersRepository _repo;
         public RelayCommand<Customer> PlaceOrderCommand { get; private set; }
         public RelayCommand<Customer> EditCustomerCommand { get; private set; }
         public RelayCommand AddCustomerCommand { get; private set; }
         public event Action<Guid> PlaceOrderRequested = delegate { };
         public event Action<Customer> AddCustomerRequested = delegate { };
         public event Action<Customer> EditCustomerRequested = delegate { };
-        public CustomerListViewModel()
+        public CustomerListViewModel(ICustomersRepository repo)
         {
+            _repo = repo;
             PlaceOrderCommand = new RelayCommand<Customer>(OnPlaceOrder);
             AddCustomerCommand = new RelayCommand(OnAddCustomer);
             EditCustomerCommand = new RelayCommand<Customer>(OnEditCustomer);

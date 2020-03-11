@@ -3,10 +3,12 @@
     using System;
     using System.ComponentModel;
     using Zza.Data;
+    using ZzaDesktop.Services;
 
     internal class AddEditCustomerViewModel : BindableBase
     {
         public bool EditMode { get; set; }
+        private ICustomersRepository _repo ;
 
         private SimpleEditableCustomer _customer;
 
@@ -22,8 +24,9 @@
 
         public event Action Done = delegate { };
 
-        public AddEditCustomerViewModel()
+        public AddEditCustomerViewModel(ICustomersRepository repo)
         {
+            _repo = repo;
             CancelCommand = new RelayCommand(OnCancel);
             SaveCommand = new RelayCommand(OnSave, CanSave);
         }
@@ -35,6 +38,7 @@
 
         private void OnSave()
         {
+
             Done();
         }
 

@@ -9,3 +9,15 @@ C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-Z
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.dll
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.pdb
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll.config
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\Zza.Data.pdb
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.xml
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CoreCompileInputs.cache
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.dll
+D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.pdb
