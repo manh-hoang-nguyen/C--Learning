@@ -24,5 +24,19 @@ namespace ZzaDesktop.Customers
         {
             InitializeComponent();
         }
+
+        private void UserControl_Loaded(object sender, RoutedEventArgs e)
+        {
+
+            // Ne chargez pas vos données au moment du design.
+            // if (!System.ComponentModel.DesignerProperties.GetIsInDesignMode(this))
+            // {
+            // 	//Chargez vos données ici et assignez le résultat à CollectionViewSource.
+            // 	System.Windows.Data.CollectionViewSource myCollectionViewSource = (System.Windows.Data.CollectionViewSource)this.Resources["Resource Key for CollectionViewSource"];
+            // 	myCollectionViewSource.Source = your data
+            // }
+        }
+
+       
     }
 }

@@ -9,4 +9,3 @@ C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-Z
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.dll
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.pdb
-C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache
