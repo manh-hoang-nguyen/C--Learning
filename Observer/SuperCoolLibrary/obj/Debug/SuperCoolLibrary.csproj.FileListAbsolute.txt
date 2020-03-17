@@ -1,0 +1,6 @@
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\SuperCoolLibrary\bin\Debug\SuperCoolLibrary.dll
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\SuperCoolLibrary\bin\Debug\SuperCoolLibrary.pdb
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.dll
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\SuperCoolLibrary\obj\Debug\SuperCoolLibrary.pdb

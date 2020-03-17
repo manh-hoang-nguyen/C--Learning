@@ -59,3 +59,4 @@ C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-L
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\CommunicatingBetweenControls\CommunicatingBetweenControls\obj\Debug\CommunicatingBetweenControls.csproj.CoreCompileInputs.cache
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\CommunicatingBetweenControls\CommunicatingBetweenControls\obj\Debug\CommunicatingBetweenControls.exe
 C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\CommunicatingBetweenControls\CommunicatingBetweenControls\obj\Debug\CommunicatingBetweenControls.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\Events-Delegates-Lambdas\CommunicatingBetweenControls\CommunicatingBetweenControls\obj\Debug\CommunicatingBetweenControls.csprojAssemblyReference.cache

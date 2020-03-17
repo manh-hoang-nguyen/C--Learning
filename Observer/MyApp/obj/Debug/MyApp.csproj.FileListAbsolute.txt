@@ -1,0 +1,10 @@
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\bin\Debug\MyApp.exe.config
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\bin\Debug\MyApp.exe
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\bin\Debug\MyApp.pdb
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\bin\Debug\SuperCoolLibrary.dll
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\bin\Debug\SuperCoolLibrary.pdb
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\obj\Debug\MyApp.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\obj\Debug\MyApp.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\obj\Debug\MyApp.csproj.CopyComplete
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\obj\Debug\MyApp.exe
+C:\Users\NGUYEN\Downloads\CodingOnTheFrontlines-master\CodingOnTheFrontlines-master\Observer\src\MyApp\obj\Debug\MyApp.pdb

@@ -1,0 +1,98 @@
+﻿<UserControl x:Class="UI.View.ConfigurationView"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:controls="clr-namespace:CommonUI.Controls;assembly=CommonUI"
+             xmlns:converters="clr-namespace:CommonUI.ValueConverters;assembly=CommonUI"
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+             xmlns:dataTemplateViewModels="clr-namespace:UI.ViewModel.ConfigureatonItem"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             xmlns:viewModel="clr-namespace:UI.ViewModel"
+             xmlns:viewModel1="clr-namespace:Interfaces.ViewModel;assembly=Interfaces"
+             d:DataContext="{d:DesignInstance viewModel:ConfigurationViewModel,
+                                              IsDesignTimeCreatable=True}"
+             d:DesignHeight="300"
+             d:DesignWidth="300"
+             mc:Ignorable="d">
+    <UserControl.Resources>
+        <DataTemplate DataType="{x:Type dataTemplateViewModels:DisplayOnlyConfigurationItemViewModel}">
+            <Border Margin="5,1"
+                    Padding="5,1"
+                    Background="LightBlue"
+                    BorderBrush="Black"
+                    BorderThickness="1">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Margin="5,0"
+                               HorizontalAlignment="Stretch"
+                               VerticalAlignment="Center"
+                               Text="{Binding Label}" />
+                    <TextBox Grid.Column="1"
+                             Margin="5,0"
+                             HorizontalAlignment="Stretch"
+                             VerticalAlignment="Center"
+                             IsReadOnly="True"
+                             Text="{Binding Value, Mode=OneWay}" />
+                </Grid>
+            </Border>
+        </DataTemplate>
+        <DataTemplate DataType="{x:Type dataTemplateViewModels:ComboBoxConfigurationItemViewModel}">
+            <Border Margin="5,1"
+                    Padding="5,1"
+                    Background="LightBlue"
+                    BorderBrush="Black"
+                    BorderThickness="1">
+                <Grid>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition Width="2*" />
+                        <ColumnDefinition Width="*" />
+                    </Grid.ColumnDefinitions>
+                    <TextBlock Margin="5,0"
+                               HorizontalAlignment="Stretch"
+                               VerticalAlignment="Center"
+                               Text="{Binding Label}" />
+                    <ComboBox Grid.Column="1"
+                              Margin="5,0"
+                              HorizontalAlignment="Stretch"
+                              VerticalAlignment="Center"
+                              ItemsSource="{Binding ItemsSource}"
+                              SelectedItem="{Binding Value}" />
+                </Grid>
+            </Border>
+        </DataTemplate>
+    </UserControl.Resources>
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+            <RowDefinition Height="Auto" />
+        </Grid.RowDefinitions>
+        <TextBlock HorizontalAlignment="Center"
+                   Text="Configuration" />
+        <controls:UniformGirdItemsControl x:Name="ItemsControl"
+                                          Grid.Row="1"
+                                          MainItemsSource="{Binding ConfigurationItems}"
+                                          MinColumnWidth="300"
+                                          MinRowHeight="32"
+                                          Orientation="Vertical" />
+        <Grid Grid.Row="2">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="*" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Button Width="80"
+                    Margin="10"
+                    Command="{Binding ElementName=ItemsControl, Path=PreviousPageCommand}"
+                    Content="Previous" />
+            <Button Grid.Column="2"
+                    Width="80"
+                    Margin="10"
+                    Command="{Binding ElementName=ItemsControl, Path=NextPageCommand}"
+                    Content="Next" />
+        </Grid>
+
+    </Grid>
+</UserControl>

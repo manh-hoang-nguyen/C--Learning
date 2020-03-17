@@ -1,0 +1,7 @@
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\MVVMLightSample\ApplicationResources\bin\Debug\ApplicationResources.dll
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\MVVMLightSample\ApplicationResources\bin\Debug\ApplicationResources.pdb
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\MVVMLightSample\ApplicationResources\obj\Debug\ApplicationResources.csprojAssemblyReference.cache
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\MVVMLightSample\ApplicationResources\obj\Debug\ApplicationResources.g.resources
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\MVVMLightSample\ApplicationResources\obj\Debug\ApplicationResources.csproj.CoreCompileInputs.cache
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\MVVMLightSample\ApplicationResources\obj\Debug\ApplicationResources.dll
+C:\Users\NGUYEN\Documents\_Programmation\_Learn\MVVMLightSample\ApplicationResources\obj\Debug\ApplicationResources.pdb
