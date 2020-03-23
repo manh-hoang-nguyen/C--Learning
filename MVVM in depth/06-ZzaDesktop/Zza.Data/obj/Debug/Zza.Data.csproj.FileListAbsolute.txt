@@ -21,3 +21,10 @@ D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learnin
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csproj.CopyComplete
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.dll
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\Unity.Abstractions.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\Unity.Container.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\Unity.Abstractions.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\bin\Debug\Unity.Container.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\Zza.Data\obj\Debug\Zza.Data.csprojAssemblyReference.cache

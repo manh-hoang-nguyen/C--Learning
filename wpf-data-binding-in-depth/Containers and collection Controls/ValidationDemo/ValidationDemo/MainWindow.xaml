@@ -1,0 +1,166 @@
+﻿<Window
+    x:Class="ValidationDemo.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:local="clr-namespace:ValidationDemo"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    Title="MainWindow"
+    Width="525"
+    Height="350"
+    Loaded="Window_Loaded"
+    mc:Ignorable="d">
+    <Window.Resources>
+        <CollectionViewSource x:Key="customerViewSource"
+                              d:DesignSource="{d:DesignInstance {x:Type local:Customer}, CreateList=True}" />
+        <Style x:Key="ErrorStyle" TargetType="FrameworkElement">
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError" Value="True">
+                    <Setter Property="ToolTip"
+                            Value="{Binding RelativeSource={x:Static RelativeSource.Self},
+                        Path=(Validation.Errors).CurrentItem.ErrorContent}" />
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+        <ControlTemplate x:Key="TextBoxErrorTemplate">
+            <DockPanel>
+                <Ellipse DockPanel.Dock="Right"
+                         Margin="2,0"
+                         ToolTip="Contains invalid data"
+                         Width="10"
+                         Height="10">
+                    <Ellipse.Fill>
+                        <LinearGradientBrush>
+                            <GradientStop Color="#11FF1111"
+                                          Offset="0" />
+                            <GradientStop Color="#FFFF0000"
+                                          Offset="1" />
+                        </LinearGradientBrush>
+                    </Ellipse.Fill>
+                </Ellipse>
+                <AdornedElementPlaceholder />
+            </DockPanel>
+        </ControlTemplate>
+        <Style TargetType="TextBox">
+            <Setter Property="Margin"
+                    Value="4,4,15,4" />
+            <Setter Property="Validation.ErrorTemplate"
+                    Value="{StaticResource TextBoxErrorTemplate}" />
+            <Style.Triggers>
+                <Trigger Property="Validation.HasError"
+                         Value="True">
+                    <Setter Property="ToolTip">
+                        <Setter.Value>
+                            <Binding Path="(Validation.Errors).CurrentItem.ErrorContent"
+                                     RelativeSource="{x:Static RelativeSource.Self}" />
+                        </Setter.Value>
+                    </Setter>
+                </Trigger>
+            </Style.Triggers>
+        </Style>
+    </Window.Resources>
+    <Grid Validation.Error="cellPhoneTextBox_Error">
+        <Grid
+            x:Name="grid1"
+            Margin="117,75,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            DataContext="{StaticResource customerViewSource}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Label
+                Grid.Row="0"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Work Phone:" />
+            <TextBox
+                x:Name="workPhoneTextBox"
+                Grid.Row="0"
+                Grid.Column="1"
+                Width="120"
+                Height="23"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center">
+                <TextBox.Text>
+                    <Binding Path="WorkPhone" UpdateSourceTrigger="PropertyChanged">
+                        <Binding.ValidationRules>
+                            <local:RegexValidationRule Expression="^\D?(\d{3})\D?\D?(\d{3})\D?(\d{4})$" />
+                        </Binding.ValidationRules>
+                    </Binding>
+                </TextBox.Text>
+            </TextBox>
+        </Grid>
+        <Grid
+            x:Name="grid2"
+            Margin="112,120,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            DataContext="{StaticResource customerViewSource}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Label
+                Grid.Row="0"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Home Phone:" />
+            <TextBox
+                x:Name="homePhoneTextBox"
+                Grid.Row="0"
+                Grid.Column="1"
+                Width="120"
+                Height="23"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Text="{Binding HomePhone, ValidatesOnExceptions=True}" />
+        </Grid>
+        <Grid
+            x:Name="grid3"
+            Margin="125,175,0,0"
+            HorizontalAlignment="Left"
+            VerticalAlignment="Top"
+            DataContext="{StaticResource customerViewSource}">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="Auto" />
+                <ColumnDefinition Width="Auto" />
+            </Grid.ColumnDefinitions>
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto" />
+            </Grid.RowDefinitions>
+            <Label
+                Grid.Row="0"
+                Grid.Column="0"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Content="Cell Phone:" />
+            <TextBox
+                x:Name="cellPhoneTextBox"
+                Grid.Row="0"
+                Grid.Column="1"
+                Width="120"
+                Height="23"
+                Margin="3"
+                HorizontalAlignment="Left"
+                VerticalAlignment="Center"
+                Text="{Binding CellPhone, ValidatesOnDataErrors=True, NotifyOnValidationError=True}" 
+                Style="{StaticResource ErrorStyle}"/>
+        </Grid>
+
+    </Grid>
+</Window>

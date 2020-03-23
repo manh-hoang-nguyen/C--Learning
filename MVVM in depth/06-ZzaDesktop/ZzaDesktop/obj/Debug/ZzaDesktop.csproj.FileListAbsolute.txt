@@ -104,3 +104,9 @@ D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learnin
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.csproj.CopyComplete
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.exe
 D:\DATA\mh.nguyen.EGIS\Documents\Professionnel\Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\obj\Debug\ZzaDesktop.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.dll
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Abstractions.pdb
+C:\Users\NGUYEN\Documents\_Programmation\__Github\C--Learning\MVVM in depth\06-ZzaDesktop\ZzaDesktop\bin\Debug\Unity.Container.pdb
