@@ -1,0 +1,77 @@
+﻿<phone:PhoneApplicationPage xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+                            xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+                            xmlns:phone="clr-namespace:Microsoft.Phone.Controls;assembly=Microsoft.Phone"
+                            xmlns:shell="clr-namespace:Microsoft.Phone.Shell;assembly=Microsoft.Phone"
+                            xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+                            xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+                            xmlns:i="clr-namespace:System.Windows.Interactivity;assembly=System.Windows.Interactivity"
+                            xmlns:Command="clr-namespace:GalaSoft.MvvmLight.Command;assembly=GalaSoft.MvvmLight.Extras.WP8"
+                            xmlns:ec="clr-namespace:Microsoft.Expression.Interactivity.Core;assembly=Microsoft.Expression.Interactions"
+                            x:Class="EventToCommandSamples.Wp8.MainPage"
+                            mc:Ignorable="d"
+                            FontFamily="{StaticResource PhoneFontFamilyNormal}"
+                            FontSize="{StaticResource PhoneFontSizeNormal}"
+                            Foreground="{StaticResource PhoneForegroundBrush}"
+                            SupportedOrientations="Portrait"
+                            Orientation="Portrait"
+                            shell:SystemTray.IsVisible="True"
+                            DataContext="{Binding Main, Mode=OneWay, Source={StaticResource Locator}}">
+
+    <i:Interaction.Triggers>
+        <ec:DataTrigger Binding="{Binding Settings.Value, Source={StaticResource Locator}}"
+                        Value="0">
+            <Command:EventToCommand Command="{Binding ValidateCommand, Mode=OneWay}" />
+        </ec:DataTrigger>
+    </i:Interaction.Triggers>
+
+    <Grid x:Name="LayoutRoot"
+          Background="Transparent">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+
+        <StackPanel x:Name="TitlePanel"
+                    Grid.Row="0"
+                    Margin="12,17,0,28">
+            <TextBlock Text="MVVM LIGHT"
+                       Style="{StaticResource PhoneTextNormalStyle}"
+                       Margin="12,0" />
+            <TextBlock Text="eventtocommand"
+                       Margin="9,-7,0,0"
+                       Style="{StaticResource PhoneTextTitle1Style}" />
+        </StackPanel>
+
+        <StackPanel x:Name="ContentPanel"
+                    Margin="12,0,12,0"
+                    Grid.Row="1">
+
+            <Grid Height="100"
+                  DataContext="{Binding Source={StaticResource Locator}}">
+                <Grid.ColumnDefinitions>
+                    <ColumnDefinition />
+                    <ColumnDefinition />
+                </Grid.ColumnDefinitions>
+                <Button Content="Increment"
+                        Grid.Column="1"
+                        Command="{Binding Settings.IncDecCommand, Mode=OneWay}"
+                        CommandParameter="+" />
+                <Button Content="Decrement"
+                        Command="{Binding Settings.IncDecCommand, Mode=OneWay}"
+                        CommandParameter="-" />
+            </Grid>
+
+            <TextBlock TextWrapping="Wrap"
+                       Text="{Binding Settings.Value}"
+                       HorizontalAlignment="Center"
+                       FontSize="36"
+                       DataContext="{Binding Source={StaticResource Locator}}"
+                       Margin="0,10,0,0" />
+            <TextBlock TextWrapping="Wrap"
+                       Text="{Binding Result}"
+                       HorizontalAlignment="Center"
+                       FontSize="36"
+                       Margin="0,10,0,0" />
+        </StackPanel>
+    </Grid>
+</phone:PhoneApplicationPage>
